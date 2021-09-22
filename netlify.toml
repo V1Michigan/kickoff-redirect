@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "https://v1michigan.com/launch"
+  to = "https://docs.google.com/forms/d/e/1FAIpQLScxPPbpM4uof3EY0z-JNnrQ5KJiMyQRJ2s00UZ8KBojiH5tBA/viewform"
   status = 301 
   force = true
