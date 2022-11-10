@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "https://v1-startup-fair-directory.super.site/"
+  to = "https://v1-startupfair-directory.super.site/"
   status = 301 
   force = true
